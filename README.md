@@ -37,3 +37,5 @@
 `anup@ubuntu-22042-08:~$ kubeadm version`
 
 `anup@ubuntu-22042-08:~$ kubectl version`
+
+<br>
